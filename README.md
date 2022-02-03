@@ -5,12 +5,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on React Native
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m looking to collaborate on MERN Stack Development
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me at <a href="ramzan86ali@gmail.com"> ramzan86ali@gmail.com 👋 </a>
+- 😄 Pronouns: ...Anything
+- ⚡ Fun fact : I have a thing for bodybuilding😋
+
+
+<!-- ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white) -->
+
+<h1> Find me around the web 🌎</h1>
+<ul>
+            <li><a href="https://twitter.com/ImRamzankhan">Twitter</a> </li>
+            <li><a href="https://www.linkedin.com/in/ramzan-ali-9933ra/">LinkedIn</a> </li>
+          
+     
+</ul>
+
+
 -->
