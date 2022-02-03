@@ -1,16 +1,10 @@
-### Hi there 👋
 
-<!--
-**Ramzankhan123/Ramzankhan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 👋 Hi, I’m Ramzan
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on MERN Stack Development
-- 💬 Ask me about ...
+- 💬 Ask me about ...Anything
 - 📫 How to reach me at <a href="ramzan86ali@gmail.com"> ramzan86ali@gmail.com 👋 </a>
-- 😄 Pronouns: ...Anything
 - ⚡ Fun fact : I have a thing for bodybuilding😋
 
 
@@ -23,6 +17,13 @@ Here are some ideas to get you started:
           
      
 </ul>
+
+
+
+<!--
+**Ramzankhan123/Ramzankhan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 -->
