@@ -1,11 +1,10 @@
 
 - 👋 Hi, I’m Ramzan
-- 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning NodeJS
+- 🔭 I’m currently working on React Native, React, Nodejs
+- 🌱 I’m currently learning Nextjs
 - 👯 I’m looking to collaborate on MERN Stack Development
 - 💬 Ask me about ...Anything
 - 📫 How to reach me at <a href="ramzan86ali@gmail.com"> ramzan86ali@gmail.com 👋 </a>
-- ⚡ Fun fact : I have a thing for bodybuilding😋
 
 
 <!-- ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white) -->
